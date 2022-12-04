@@ -1,6 +1,6 @@
 # Hi, this is @Ellanwang. :wave: 
 
-- :postion: Front-end Engineer.
+- 🏣: Front-end Engineer.
 - :man_technologist: Major in Software Engineering.
 - :dart: Work hard to be a good frontend developer.
 - :heart: Love open source spirit.
